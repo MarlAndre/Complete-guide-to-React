@@ -1,6 +1,6 @@
 # Expense Tracker
 
-First porject built during the course "Complete guide to React". 
+First project built during the course "Complete guide to React". 
 
 ## Description
 
