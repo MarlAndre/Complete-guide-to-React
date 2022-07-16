@@ -18,7 +18,7 @@ function AddUser(props) {
     if (+enteredAge < 1) {
       return;
     }
-    console.log(enteredUsername, enteredAge);
+    props.onAddUser(enteredUsername, enteredAge);
     // Resetting logic. Add value to input field
     setEnteredUsername("");
     setEnteredAge("");
